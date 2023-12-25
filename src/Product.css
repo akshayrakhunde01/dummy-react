@@ -1,0 +1,14 @@
+.Product{
+    border: 1px solid white;
+    border-radius: 24px;
+    padding: 10px;
+}
+h3{
+    color: brown;
+}
+h4{
+    color: rgb(28, 58, 150);
+}
+p{
+    color: darkgreen;
+}
